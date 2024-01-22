@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     align-items: center;
 }
-
+/* This is styling the body of the page. Setting the margins/padding, as well as assigning the background color and aligning everything to center. */
 header {
     background-color: #343a40;
     color: #fff;
@@ -17,17 +17,17 @@ header {
     width: 100%;
     box-sizing: border-box;
 }
-
+/* This is for the header bar at the top of the page. Setting the margins and width, aligning the text to center, and applying the color/background color for the bar. */
 header h1 {
     margin: 0;
     font-size: 2.5em;
 }
-
+/* Setting the font size of the header. */
 header p {
     font-size: 1.2em;
     margin-top: 10px;
 }
-
+/* Setting the font size and margin for the header of the paragraph. */
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -38,37 +38,37 @@ main {
     width: 100%;
     box-sizing: border-box;
 }
-
+/*Setting the parameters for everything within the main tags. */
 section {
     margin-bottom: 40px;
 }
-
+/* setting the margin for the "section" tags. */
 h2 {
     color: #343a40;
     border-bottom: 2px solid #007bff;
     padding-bottom: 5px;
 }
-
+/* setting the border, color, and padding for the h2 tag. */
 ul {
     list-style: none;
     padding: 0;
 }
-
+/* Styling the list*/
 ul li {
     margin-bottom: 10px;
     font-size: 1.1em;
 }
-
+/* Styling the list*/
 a {
     color: #007bff;
     text-decoration: none;
     transition: color 0.3s ease;
 }
-
+/* Styling everything withing the a tags */
 a:hover {
     color: #0056b3;
 }
-
+/* Adding the effect when you hover your cursor over the links */
 footer {
     background-color: #343a40;
     color: #fff;
@@ -78,3 +78,4 @@ footer {
     width: 100%;
     box-sizing: border-box;
 }
+/* adding the styling for the footer bar at the bottom of the webpage */
