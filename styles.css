@@ -7,7 +7,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-align: center;
 }
 /* This is styling the body of the page. Setting the margins/padding, as well as assigning the background color and aligning everything to center. */
 header {
@@ -40,7 +39,6 @@ main {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     width: 100%;
     box-sizing: border-box;
-    text-align: center;
 }
 /*Setting the parameters for everything within the main tags. */
 section {
@@ -62,14 +60,12 @@ ul {
 ul li {
     margin-bottom: 10px;
     font-size: 1.1em;
-    text-align: center;
 }
 /* Styling the list*/
 a {
     color: #007bff;
     text-decoration: none;
     transition: color 0.3s ease;
-    text-align: center;
 }
 /* Styling everything withing the a tags */
 a:hover {
@@ -84,6 +80,5 @@ footer {
     border-top: 2px solid #007bff;
     width: 100%;
     box-sizing: border-box;
-    text-align: center;
 }
 /* adding the styling for the footer bar at the bottom of the webpage */
