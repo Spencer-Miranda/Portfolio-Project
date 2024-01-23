@@ -91,7 +91,7 @@ section img {
     text-align: center;
     margin: 0 auto;
 }
-center {
+ol.center {
   display: table;
   margin-left: auto;
   margin-right: auto;
