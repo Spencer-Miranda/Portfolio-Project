@@ -97,5 +97,5 @@ section img {
 }
 ol.center li {
  text-align: left;
- margin-left: auto;
+ margin-left: 0 auto;
 }
