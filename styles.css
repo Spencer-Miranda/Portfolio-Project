@@ -41,6 +41,7 @@ main {
 /*Setting the parameters for everything within the main tags. */
 section {
     margin-bottom: 40px;
+    text-align: center;
 }
 /* setting the margin for the "section" tags. */
 h2 {
