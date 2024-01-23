@@ -80,3 +80,9 @@ footer {
     box-sizing: border-box;
 }
 /* adding the styling for the footer bar at the bottom of the webpage */
+section img {
+    max-width: 100%; 
+    height: auto; 
+    width: 200px; 
+    height: 200px; 
+}
