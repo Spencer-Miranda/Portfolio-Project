@@ -96,6 +96,6 @@ section img {
  list-style-position: inside;
 }
 ol.center li {
- text-align: left;
+ text-align: center;
  margin-left: 45%;
 }
