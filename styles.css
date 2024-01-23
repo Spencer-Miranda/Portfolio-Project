@@ -82,10 +82,9 @@ footer {
 }
 /* adding the styling for the footer bar at the bottom of the webpage */
 section img {
-    max-width: 100%; 
-    height: auto; 
+    max-width: 100%;  
     width: 500px; 
     height: 500px;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
 }
