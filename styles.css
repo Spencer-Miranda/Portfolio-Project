@@ -92,6 +92,8 @@ section img {
     margin: 0 auto;
 }
 center {
-    text-align: center;
-    list-style-position: inside;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
 }
