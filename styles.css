@@ -99,4 +99,5 @@ ol.center li {
  text-align: left;
  margin-left: auto;
  margin-right: auto;
+ list-style-position: inside;
 }
