@@ -88,17 +88,7 @@ section img {
     text-align: center;
     margin: 0 auto;
 }
-about {
-    text-align: center;
-}
-
-about ol {
+  ol {
     list-style-position: inside;
-    padding-left: 0;
-    display: inline-block;
-}
-
-about li {
-    display: inline;
-    margin-right: 10px;
-}
+    text-align: center;
+  }
