@@ -91,13 +91,18 @@ section img {
     text-align: center;
     margin: 0 auto;
 }
-.center {
- text-align: center;
- list-style-position: inside;
+about {
+    text-align: center;
 }
-ol.center li {
- text-align: left;
- margin-left: auto;
- margin-right: auto;
- list-style-position: inside;
+
+about ol {
+    list-style-position: inside;
+    padding-left: 0;
+    display: inline-block; 
 }
+
+about li {
+    display: inline;
+    margin-right: 10px;
+}
+
